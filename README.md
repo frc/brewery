@@ -4,14 +4,14 @@ Brew tap for custom Frantic formulae
 ## Requirements
 
 * [Homebrew](https://github.com/Homebrew/brew)
-* Yosemite, El Capitan, and Sierra. Untested everywhere else.
+* Yosemite, El Capitan, and Sierra. Untested everywhere.
 
 ## Installation
 
 Run the following in your command-line:
 
 ```sh
-$ brew tap homebrew/homebrew-php
+$ brew tap frc/brewery
 ```
 
 ## Troubleshooting
